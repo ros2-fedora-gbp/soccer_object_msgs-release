@@ -1,3 +1,26 @@
+## soccer_object_msgs (rolling) - 1.1.0-1
+
+The packages in the `soccer_object_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling soccer_object_msgs --edit` on `Sat, 29 Oct 2022 09:13:12 -0000`
+
+The `soccer_object_msgs` package was released.
+
+Version of package(s) in repository `soccer_object_msgs`:
+
+- upstream repository: https://github.com/ijnek/soccer_object_msgs.git
+- release repository: https://github.com/ros2-gbp/soccer_object_msgs-release.git
+- rosdistro version: `1.0.1-3`
+- old version: `1.0.1-3`
+- new version: `1.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## soccer_object_msgs (foxy) - 1.0.1-1
 
 The packages in the `soccer_object_msgs` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --rosdistro foxy --track foxy soccer_object_msgs` on `Sat, 08 Jan 2022 00:02:36 -0000`
